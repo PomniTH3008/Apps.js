@@ -1,4 +1,4 @@
-#​ Pomnith3008.xyz​
+#​ PomniTH3008.xyz
 
 The​ all in one github discord servers support for every users of discord
 
