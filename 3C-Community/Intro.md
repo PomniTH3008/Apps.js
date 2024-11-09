@@ -1,4 +1,4 @@
-#​ 3C Comnunity
+# 3C Comnunity
 
 This​ Is​ Main Discord Servers of this repository
 
