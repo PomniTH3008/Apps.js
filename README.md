@@ -2,5 +2,9 @@
 
 The​ all in one github discord servers support for every users of discord
 
-## Table​ Of​ Servers
-[3 Coloured​ Community​](https://github.com/PomniTH3008/PomniTH3008.xyz/tree/pages/3C-Community​)
+## Information
+This is where users can contact us by mail to this gmail: [pomnith3008@gmail.com]​(mailto:pomnith3008@gmail.com)​ and if your discord user and have servers you can contact our Gmail then your servers will show up on folder types
+
+## Repository Editor
+Owner: Ninina (@PomniTH3008)
+Helper: None
