@@ -1,4 +1,4 @@
-# PomniTH3008.xyz​
+# Pomni.apps
 
 The​ all in one github discord servers support for every users of discord
 
