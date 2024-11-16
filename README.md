@@ -1,12 +1,6 @@
 # Pomni.apps
 
-The Github Pomni.apps Studios's Help Centers!. 
+The Pomni_TH3008's Github
 
-## Information
-This is where users can contact us by mail to this gmail: pomnith3008@gmail.com and if your discord user and have servers you can contact our Gmail then your servers will show up on folder types
-## WARNING
-Information Is Only Non-Advanced And Only 20% Correctly.
-
-## Repository Editor
-Owner: PomniTH3008
-Helper: None
+## Warning:
+Only Original Pomni_TH3008 Github Must Have #by-appsjs Tags Only!
