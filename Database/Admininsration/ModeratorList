@@ -1,0 +1,8 @@
+name: ModeratorList
+data: diff:createtopic(andgetsomedifffrom("role")
+      then list = {
+          {findowner[role="Owner Deleted"]}
+          {findadminandmod[role="Mods"]}
+          {findrelugarmember[role="Real Members"]}
+      }
+      
