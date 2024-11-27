@@ -1,0 +1,4 @@
+NAME: ModeratorCtrl
+DATA: diff:getdatafile("ModeratorList").data
+      ModeratorList:GetRank["{RANKOFMOD}r"] and then
+      GetRole:ModeratorFollowing(ModeratorList:GetRank)
